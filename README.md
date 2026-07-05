@@ -83,6 +83,8 @@ You can execute the **build_linux.sh** to build the binaries.
 ## Documentation
 For documentation, please refer to the Wiki section.
 
+Local notes for this workspace are collected in [docs/README.md](docs/README.md).
+
 ## Extra
 
 ### Vulkan Validation Layer: Validation Error
